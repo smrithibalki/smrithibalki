@@ -2,7 +2,7 @@
 
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=smrithibalki.smrithibalki12)](https://github.com/smrithibalki) [![GitHub followers](https://img.shields.io/github/followers/smrithibalki.svg?style=social&label=Follow)](https://github.com/smrithibalki?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=smrithibalki.smrithibalki)](https://github.com/smrithibalki) [![GitHub followers](https://img.shields.io/github/followers/smrithibalki.svg?style=social&label=Follow)](https://github.com/smrithibalki?tab=followers)
 
 I'm Smrithi Balki! 
 - <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
